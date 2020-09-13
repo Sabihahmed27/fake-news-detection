@@ -1,4 +1,4 @@
-# fake-news-detection
+# Fake News Detection
 The application is to help detect fake news using Machine Learning and Natural Language Processing techniques.
 
 The project covers the following:
